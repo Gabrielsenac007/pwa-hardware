@@ -1,0 +1,23 @@
+{
+    "name": "Foto Like Paizão",
+    "short_name": "Foto Paizão",
+    "description": "Um app PWA para tirar fotos com a câmera.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#f0f2f5",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "/celular.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/pc.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
+  
